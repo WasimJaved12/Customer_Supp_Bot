@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Support Bot
 
 This project is an AI-powered Customer Support Bot built in Python.  
@@ -36,3 +37,7 @@ customer-support-bot/
 │── README.md               # Project documentation
 │── support_bot_log.txt     # Log file of bot decisions
 │── Serri Doc.pdf (example)       # Sample input document (not included)
+=======
+# Customer_Supp_Bot
+Serri AI SupportBot is an AI-powered query handling system that combines FAQ-based responses with dynamic PDF querying. It helps businesses, researchers, and developers get quick, accurate answers from documents and predefined knowledge.
+>>>>>>> 0963227c78731c2e7532590a2a55c33bbb59b364
