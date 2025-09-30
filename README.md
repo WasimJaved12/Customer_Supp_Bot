@@ -18,7 +18,7 @@ and refine its responses based on simulated feedback.
 
 ---
 
-Github link - https://github.com/WasimJaved12/C_S_BOT
+Github link - https://github.com/WasimJaved12/Customer_Supp_Bot
 
 pip install torch transformers sentence-transformers PyPDF2
 
