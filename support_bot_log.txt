@@ -1,161 +1,50 @@
-2025-09-29 16:46:37,505 - INFO - Use pytorch device_name: cpu
-2025-09-29 16:46:37,505 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
-2025-09-29 16:47:06,059 - INFO - SupportBotAgent initialized.
-2025-09-29 16:50:10,050 - INFO - Document loaded: D:/Serri/Serri Doc.pdf with 57665 characters
-2025-09-29 16:50:21,176 - INFO - Query received: What is serri AI?
-2025-09-29 16:51:15,224 - INFO - Feedback: too vague | Adjusted Response: Serri AI is a bit more advanced than other AI projects out there. I'm not sure how much of it is based on the common ideas of artificial neural networks, but I would imagine the main focus for this project is building something that is incredibly powerful and interesting. I also imagine that this project is a bit more than simply a (added more context)
-2025-09-29 16:51:15,224 - INFO - Feedback: too vague | Adjusted Response: Serri AI is a bit more advanced than other AI projects out there. I'm not sure how much of it is based on the common ideas of artificial neural networks, but I would imagine the main focus for this project is building something that is incredibly powerful and interesting. I also imagine that this project is a bit more than simply a (added more context) (added more context)
-2025-09-29 16:51:15,224 - INFO - Feedback: not helpful | Adjusted Response: Serri AI is a bit more advanced than other AI projects out there. I'm not sure how much of it is based on the common ideas of artificial neural networks, but I would imagine the main focus for this project is building something that is incredibly powerful and interesting. I also imagine that this project is a bit more than simply a (added more context) (added more context) (rephrased for clarity)
-2025-09-29 16:51:15,227 - INFO - Feedback: not helpful | Adjusted Response: Serri AI is a bit more advanced than other AI projects out there. I'm not sure how much of it is based on the common ideas of artificial neural networks, but I would imagine the main focus for this project is building something that is incredibly powerful and interesting. I also imagine that this project is a bit more than simply a (added more context) (added more context) (rephrased for clarity) (rephrased for clarity)
-2025-09-29 16:51:15,227 - INFO - Feedback: not helpful | Adjusted Response: Serri AI is a bit more advanced than other AI projects out there. I'm not sure how much of it is based on the common ideas of artificial neural networks, but I would imagine the main focus for this project is building something that is incredibly powerful and interesting. I also imagine that this project is a bit more than simply a (added more context) (added more context) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity)
-2025-09-29 16:51:15,227 - INFO - Feedback: too vague | Adjusted Response: Serri AI is a bit more advanced than other AI projects out there. I'm not sure how much of it is based on the common ideas of artificial neural networks, but I would imagine the main focus for this project is building something that is incredibly powerful and interesting. I also imagine that this project is a bit more than simply a (added more context) (added more context) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (added more context)
-2025-09-29 16:51:15,227 - INFO - Feedback: too vague | Adjusted Response: Serri AI is a bit more advanced than other AI projects out there. I'm not sure how much of it is based on the common ideas of artificial neural networks, but I would imagine the main focus for this project is building something that is incredibly powerful and interesting. I also imagine that this project is a bit more than simply a (added more context) (added more context) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (added more context) (added more context)
-2025-09-29 16:51:15,227 - INFO - Feedback: good | Adjusted Response: Serri AI is a bit more advanced than other AI projects out there. I'm not sure how much of it is based on the common ideas of artificial neural networks, but I would imagine the main focus for this project is building something that is incredibly powerful and interesting. I also imagine that this project is a bit more than simply a (added more context) (added more context) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (added more context) (added more context)
-2025-09-29 16:51:36,749 - INFO - Query received: Key Features and Benifits
-2025-09-29 16:51:51,959 - INFO - Use pytorch device_name: cpu
-2025-09-29 16:51:51,961 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
-2025-09-29 16:52:17,196 - INFO - SupportBotAgent initialized.
-2025-09-29 16:52:40,748 - INFO - Document loaded: D:/Serri/Serri Doc.pdf with 57665 characters
-2025-09-29 16:53:18,609 - INFO - Query received: What is greeting and Introduction 
-2025-09-29 16:54:06,563 - INFO - Feedback: good | Adjusted Response: I don't know, I just like them.
-QA and QA-Bot
-QA-Bot, the bot that is used by QA and QA-Bot, are the bots used to answer all of the questions that are submitted to the site. QA-Bot is designed to be easy to use, and to answer questions quickly. QA-Bot is also available in English, French and German as well as in other languages, so feel free to contact us with questions or comments.
-QA-Bot is currently being developed by a team of 10 developers, who have received more than 10,000 responses from all over the world.
-The QA-Bot team consists of:
-A.J.N.
-A.J.N. is the programmer who is responsible for developing the QA-Bot software. A.J.N. is also responsible for
-2025-09-29 16:54:26,977 - INFO - Query received: What is Tone and Personality
-2025-09-29 16:55:15,993 - INFO - Feedback: not helpful | Adjusted Response: As described above in the Tone and Personality section, the traits that define your personality are:
-- Emotional intelligence
-- Empathic intelligence
-- Open minded
-- Focused (i.e., objective)
-- Intuitive
-- Empathetic
-- Conscientious
-- Emotional
-- Intuitive
-- Conscientious
-- Open minded
-- Open-minded
-- Conscientious
-- Emotional intelligence
-- Open- (rephrased for clarity)
-2025-09-29 16:55:15,993 - INFO - Feedback: too vague | Adjusted Response: As described above in the Tone and Personality section, the traits that define your personality are:
-- Emotional intelligence
-- Empathic intelligence
-- Open minded
-- Focused (i.e., objective)
-- Intuitive
-- Empathetic
-- Conscientious
-- Emotional
-- Intuitive
-- Conscientious
-- Open minded
-- Open-minded
-- Conscientious
-- Emotional intelligence
-- Open- (rephrased for clarity) (added more context)
-2025-09-29 16:55:15,993 - INFO - Feedback: too vague | Adjusted Response: As described above in the Tone and Personality section, the traits that define your personality are:
-- Emotional intelligence
-- Empathic intelligence
-- Open minded
-- Focused (i.e., objective)
-- Intuitive
-- Empathetic
-- Conscientious
-- Emotional
-- Intuitive
-- Conscientious
-- Open minded
-- Open-minded
-- Conscientious
-- Emotional intelligence
-- Open- (rephrased for clarity) (added more context) (added more context)
-2025-09-29 16:55:15,994 - INFO - Feedback: good | Adjusted Response: As described above in the Tone and Personality section, the traits that define your personality are:
-- Emotional intelligence
-- Empathic intelligence
-- Open minded
-- Focused (i.e., objective)
-- Intuitive
-- Empathetic
-- Conscientious
-- Emotional
-- Intuitive
-- Conscientious
-- Open minded
-- Open-minded
-- Conscientious
-- Emotional intelligence
-- Open- (rephrased for clarity) (added more context) (added more context)
-2025-09-29 16:55:31,074 - INFO - Query received: What is problem statement
-2025-09-29 17:00:25,261 - INFO - Use pytorch device_name: cpu
-2025-09-29 17:00:25,264 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
-2025-09-29 17:00:44,282 - INFO - SupportBotAgent initialized.
-2025-09-29 17:02:32,073 - INFO - Document loaded: D:/Serri/Serri Doc.pdf with 57665 characters
-2025-09-29 17:03:17,597 - INFO - Query received: Role and Objective
-2025-09-29 17:03:17,678 - INFO - Feedback: too vague | Adjusted Response: I don’t have enough information to answer that. (added more context)
-2025-09-29 17:03:17,680 - INFO - Feedback: good | Adjusted Response: I don’t have enough information to answer that. (added more context)
-2025-09-29 17:03:58,226 - INFO - Query received: What AI/LLM are you using
-2025-09-29 17:03:58,534 - INFO - Feedback: good | Adjusted Response: a proprietary multi-LLM model
-2025-09-29 17:04:32,176 - INFO - Query received: Overview of serri AI
-2025-09-29 17:05:20,655 - INFO - Feedback: too vague | Adjusted Response: Serri AI works by using (added more context)
-2025-09-29 17:05:20,655 - INFO - Feedback: not helpful | Adjusted Response: Serri AI works by using (added more context) (rephrased for clarity)
-2025-09-29 17:05:20,655 - INFO - Feedback: good | Adjusted Response: Serri AI works by using (added more context) (rephrased for clarity)
-2025-09-29 20:07:47,918 - INFO - Use pytorch device_name: cpu
-2025-09-29 20:07:47,920 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
-2025-09-29 20:08:05,834 - INFO - SupportBotAgent initialized.
-2025-09-29 20:08:29,967 - INFO - Document loaded: D:/Serri/Serri Doc.pdf with 57665 characters
-2025-09-29 20:09:15,033 - INFO - Query received: What is Serri AI
-2025-09-29 20:10:11,078 - INFO - Feedback: too vague | Adjusted Response: Serri AI will replace the existing system of servers and make it easy to extend your games in any direction. Serri AI will make server managment much much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managing much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server manag (added more context)
-2025-09-29 20:10:11,105 - INFO - Feedback: good | Adjusted Response: Serri AI will replace the existing system of servers and make it easy to extend your games in any direction. Serri AI will make server managment much much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managing much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server managment much more efficient. Serri AI will make server manag (added more context)
-2025-09-29 20:10:59,804 - INFO - Query received: Will AI replace Jobs
-2025-09-29 20:11:01,057 - INFO - Feedback: not helpful | Adjusted Response: AI agents work with your existing sales, marketing, and support systems (rephrased for clarity)
-2025-09-29 20:11:01,060 - INFO - Feedback: not helpful | Adjusted Response: AI agents work with your existing sales, marketing, and support systems (rephrased for clarity) (rephrased for clarity)
-2025-09-29 20:11:01,061 - INFO - Feedback: not helpful | Adjusted Response: AI agents work with your existing sales, marketing, and support systems (rephrased for clarity) (rephrased for clarity) (rephrased for clarity)
-2025-09-29 20:11:01,061 - INFO - Feedback: not helpful | Adjusted Response: AI agents work with your existing sales, marketing, and support systems (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity)
-2025-09-29 20:11:01,062 - INFO - Feedback: too vague | Adjusted Response: AI agents work with your existing sales, marketing, and support systems (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (added more context)
-2025-09-29 20:11:01,064 - INFO - Feedback: too vague | Adjusted Response: AI agents work with your existing sales, marketing, and support systems (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (added more context) (added more context)
-2025-09-29 20:11:01,064 - INFO - Feedback: not helpful | Adjusted Response: AI agents work with your existing sales, marketing, and support systems (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (added more context) (added more context) (rephrased for clarity)
-2025-09-29 20:11:01,065 - INFO - Feedback: not helpful | Adjusted Response: AI agents work with your existing sales, marketing, and support systems (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (added more context) (added more context) (rephrased for clarity) (rephrased for clarity)
-2025-09-29 20:11:01,065 - INFO - Feedback: good | Adjusted Response: AI agents work with your existing sales, marketing, and support systems (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (rephrased for clarity) (added more context) (added more context) (rephrased for clarity) (rephrased for clarity)
-2025-09-29 20:11:24,930 - INFO - Query received: Sajna tu Baimaan
-2025-09-29 20:11:25,002 - INFO - Feedback: not helpful | Adjusted Response: I don’t have enough information to answer that. (rephrased for clarity)
-2025-09-29 20:11:25,002 - INFO - Feedback: not helpful | Adjusted Response: I don’t have enough information to answer that. (rephrased for clarity) (rephrased for clarity)
-2025-09-29 20:11:25,003 - INFO - Feedback: not helpful | Adjusted Response: I don’t have enough information to answer that. (rephrased for clarity) (rephrased for clarity) (rephrased for clarity)
-2025-09-29 20:11:25,003 - INFO - Feedback: good | Adjusted Response: I don’t have enough information to answer that. (rephrased for clarity) (rephrased for clarity) (rephrased for clarity)
-2025-09-29 20:11:38,292 - INFO - Query received: Sajna tu Baimaan
-2025-09-29 20:11:38,419 - INFO - Feedback: good | Adjusted Response: I don’t have enough information to answer that.
-2025-09-29 20:12:02,553 - INFO - Query received: What is Vision of Serri AI
-2025-09-29 20:12:49,621 - INFO - Feedback: not helpful | Adjusted Response: The AI consists of a variety of elements to be able to solve problems in game development. The AI consists of:
-- A player called Serri AI who will have a set of AI functions. The function that you choose is based on the type of the game, such as action based, puzzle based or combat based.
-- An AI called Serri AI that is capable of learning from experience and adapts to the environment.
-- A player called Serri AI that is capable of creating a character named Serri AI. The function that you choose is based on the type of the game, such as action based, puzzle based or combat based.
-- A player called Serri AI that is able to create a world and map called Serri AI world map. The function that you choose is based on the type of the game, such as action based, puzzle based or combat based. (rephrased for clarity)
-2025-09-29 20:12:49,632 - INFO - Feedback: too vague | Adjusted Response: The AI consists of a variety of elements to be able to solve problems in game development. The AI consists of:
-- A player called Serri AI who will have a set of AI functions. The function that you choose is based on the type of the game, such as action based, puzzle based or combat based.
-- An AI called Serri AI that is capable of learning from experience and adapts to the environment.
-- A player called Serri AI that is capable of creating a character named Serri AI. The function that you choose is based on the type of the game, such as action based, puzzle based or combat based.
-- A player called Serri AI that is able to create a world and map called Serri AI world map. The function that you choose is based on the type of the game, such as action based, puzzle based or combat based. (rephrased for clarity) (added more context)
-2025-09-29 20:12:49,634 - INFO - Feedback: good | Adjusted Response: The AI consists of a variety of elements to be able to solve problems in game development. The AI consists of:
-- A player called Serri AI who will have a set of AI functions. The function that you choose is based on the type of the game, such as action based, puzzle based or combat based.
-- An AI called Serri AI that is capable of learning from experience and adapts to the environment.
-- A player called Serri AI that is capable of creating a character named Serri AI. The function that you choose is based on the type of the game, such as action based, puzzle based or combat based.
-- A player called Serri AI that is able to create a world and map called Serri AI world map. The function that you choose is based on the type of the game, such as action based, puzzle based or combat based. (rephrased for clarity) (added more context)
-2025-09-29 20:15:48,506 - INFO - Query received: Inniya Vinniya 
-2025-09-29 20:15:48,835 - INFO - Feedback: not helpful | Adjusted Response: I don’t have enough information to answer that. (rephrased for clarity)
-2025-09-29 20:15:48,837 - INFO - Feedback: not helpful | Adjusted Response: I don’t have enough information to answer that. (rephrased for clarity) (rephrased for clarity)
-2025-09-29 20:15:48,837 - INFO - Feedback: too vague | Adjusted Response: I don’t have enough information to answer that. (rephrased for clarity) (rephrased for clarity) (added more context)
-2025-09-29 20:15:48,837 - INFO - Feedback: good | Adjusted Response: I don’t have enough information to answer that. (rephrased for clarity) (rephrased for clarity) (added more context)
-2025-09-29 20:15:58,167 - INFO - Query received: Badli si Hawa hai
-2025-09-29 20:15:58,282 - INFO - Feedback: too vague | Adjusted Response: I don’t have enough information to answer that. (added more context)
-2025-09-29 20:15:58,284 - INFO - Feedback: good | Adjusted Response: I don’t have enough information to answer that. (added more context)
-2025-09-29 20:16:18,551 - INFO - Query received: Targaet Market of Serri
-2025-09-29 20:16:19,147 - INFO - Feedback: too vague | Adjusted Response: Inform visitors about Serri's features and benefits (added more context)
-2025-09-29 20:16:19,149 - INFO - Feedback: not helpful | Adjusted Response: Inform visitors about Serri's features and benefits (added more context) (rephrased for clarity)
-2025-09-29 20:16:19,149 - INFO - Feedback: good | Adjusted Response: Inform visitors about Serri's features and benefits (added more context) (rephrased for clarity)
-2025-09-29 20:16:30,126 - INFO - Query received: Target Market
-2025-09-29 20:16:30,347 - INFO - Feedback: good | Adjusted Response: Target Industries & Use Cases
-2025-09-29 20:16:47,156 - INFO - Query received: Expand Target Industries
-2025-09-29 20:16:47,279 - INFO - Feedback: good | Adjusted Response: Target Industries & Use Cases
+2025-09-29 21:12:53,561 - INFO - Use pytorch device_name: cpu
+2025-09-29 21:12:53,561 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 21:13:08,584 - INFO - SupportBotAgent initialized.
+2025-09-29 21:13:36,169 - INFO - Document loaded: D:/Serri/FAQ.pdf with 35053 characters
+2025-09-29 21:14:02,546 - INFO - Query received: What is a user id
+2025-09-29 21:14:35,434 - INFO - Feedback: not helpful | Adjusted Response: Username
+Question (rephrased for clarity)
+2025-09-29 21:14:35,438 - INFO - Feedback: good | Adjusted Response: Username
+Question (rephrased for clarity)
+2025-09-29 21:14:46,192 - INFO - Query received: what is neft
+2025-09-29 21:15:15,719 - INFO - Feedback: too vague | Adjusted Response: C++ is the core language for computers. OpenMP is the language (added more context)
+2025-09-29 21:15:15,719 - INFO - Feedback: too vague | Adjusted Response: C++ is the core language for computers. OpenMP is the language (added more context) (added more context)
+2025-09-29 21:15:15,719 - INFO - Feedback: too vague | Adjusted Response: C++ is the core language for computers. OpenMP is the language (added more context) (added more context) (added more context)
+2025-09-29 21:15:15,719 - INFO - Feedback: good | Adjusted Response: C++ is the core language for computers. OpenMP is the language (added more context) (added more context) (added more context)
+2025-09-29 21:15:46,519 - INFO - Query received: how will i get my password
+2025-09-29 21:15:46,610 - INFO - Feedback: not helpful | Adjusted Response: How will I get my password (rephrased for clarity)
+2025-09-29 21:15:46,610 - INFO - Feedback: not helpful | Adjusted Response: How will I get my password (rephrased for clarity) (rephrased for clarity)
+2025-09-29 21:15:46,610 - INFO - Feedback: too vague | Adjusted Response: How will I get my password (rephrased for clarity) (rephrased for clarity) (added more context)
+2025-09-29 21:15:46,610 - INFO - Feedback: not helpful | Adjusted Response: How will I get my password (rephrased for clarity) (rephrased for clarity) (added more context) (rephrased for clarity)
+2025-09-29 21:15:46,610 - INFO - Feedback: too vague | Adjusted Response: How will I get my password (rephrased for clarity) (rephrased for clarity) (added more context) (rephrased for clarity) (added more context)
+2025-09-29 21:15:46,610 - INFO - Feedback: too vague | Adjusted Response: How will I get my password (rephrased for clarity) (rephrased for clarity) (added more context) (rephrased for clarity) (added more context) (added more context)
+2025-09-29 21:15:46,610 - INFO - Feedback: not helpful | Adjusted Response: How will I get my password (rephrased for clarity) (rephrased for clarity) (added more context) (rephrased for clarity) (added more context) (added more context) (rephrased for clarity)
+2025-09-29 21:15:46,611 - INFO - Feedback: good | Adjusted Response: How will I get my password (rephrased for clarity) (rephrased for clarity) (added more context) (rephrased for clarity) (added more context) (added more context) (rephrased for clarity)
+2025-09-29 21:16:51,496 - INFO - Use pytorch device_name: cpu
+2025-09-29 21:16:51,496 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-09-29 21:17:05,529 - INFO - SupportBotAgent initialized.
+2025-09-29 21:18:25,540 - INFO - Document loaded: D:/Serri/FAQ.pdf with 35053 characters
+2025-09-29 21:19:25,416 - INFO - Query received: Download
+2025-09-29 21:19:25,449 - INFO - Feedback: good | Adjusted Response: I don’t have enough information to answer that.
+2025-09-29 21:19:55,065 - INFO - Query received: If I forget my Passwordwhat should I do
+2025-09-29 21:20:23,234 - INFO - Feedback: good | Adjusted Response: If you're looking for a password to unlock a locked door, you probably don't
+2025-09-29 21:21:01,809 - INFO - Query received: How Often should I change my Password
+2025-09-29 21:21:28,617 - INFO - Feedback: too vague | Adjusted Response: You need to provide two different passwords to access each of your accounts.
+Question: Can I change (added more context)
+2025-09-29 21:21:28,618 - INFO - Feedback: too vague | Adjusted Response: You need to provide two different passwords to access each of your accounts.
+Question: Can I change (added more context) (added more context)
+2025-09-29 21:21:28,618 - INFO - Feedback: too vague | Adjusted Response: You need to provide two different passwords to access each of your accounts.
+Question: Can I change (added more context) (added more context) (added more context)
+2025-09-29 21:21:28,618 - INFO - Feedback: good | Adjusted Response: You need to provide two different passwords to access each of your accounts.
+Question: Can I change (added more context) (added more context) (added more context)
+2025-09-29 21:23:01,881 - INFO - Query received: wasim
+2025-09-29 21:23:01,914 - INFO - Feedback: too vague | Adjusted Response: I don’t have enough information to answer that. (added more context)
+2025-09-29 21:23:01,914 - INFO - Feedback: too vague | Adjusted Response: I don’t have enough information to answer that. (added more context) (added more context)
+2025-09-29 21:23:01,914 - INFO - Feedback: not helpful | Adjusted Response: I don’t have enough information to answer that. (added more context) (added more context) (rephrased for clarity)
+2025-09-29 21:23:01,914 - INFO - Feedback: good | Adjusted Response: I don’t have enough information to answer that. (added more context) (added more context) (rephrased for clarity)
+2025-09-29 21:23:56,941 - INFO - Query received: How about Loan accounts?
+2025-09-29 21:24:23,772 - INFO - Feedback: good | Adjusted Response: Well, there are two different things that you can do. You can take out money and leave the country and you can loan money out to other people. And you can also take out money and leave the country and you can leave the country and take out money and leave the country. And there is no need for you to do that. Now, what about the other bank accounts? So, what you can do is you could go to another bank account or you could take out money out of the bank and you can then return to the country. Now, what about the other bank accounts? Do you want to go to another bank account? No, you don't. And what about the other bank accounts? Do you want to go to a different bank account? No, you don't. And what about the other bank accounts? You can't go to a bank account without permission. And what about the other bank accounts? So, now I see what you mean. Now you can't go to another bank account without permission. So, you can't take out money from a bank account without permission. Now, what
+2025-09-29 21:25:07,905 - INFO - Query received: Is there any charge for the service
+2025-09-29 21:25:37,420 - INFO - Feedback: good | Adjusted Response: Yes, no charge for this service,
+Question: Are there any charges
